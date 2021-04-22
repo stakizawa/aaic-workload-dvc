@@ -16,8 +16,6 @@ $ source ~/lib/pyenv/dvc/bin/activate
 
 ## 使い方
 
-`dvc import`は現在エラーになります。
-
 ```Console
 $ source ~/lib/pyenv/dvc/bin/activate
 (dvc) $ dvc list https://github.com/stakizawa/aaic-workload-dvc workloads
